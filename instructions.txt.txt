@@ -1,5 +1,0 @@
-How to start game?
-1. Place all the files in the same folder.
-2. Run the Run.py file.
-
-Requirements => tkinter
