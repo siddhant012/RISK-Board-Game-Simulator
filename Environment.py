@@ -38,7 +38,7 @@ class Logs:
 
 
 class Environment:
-    def __init__(self,base_dir="./RISK AI/",starting_troops_num=40,players_num=2,players=None,start_with=0):
+    def __init__(self,base_dir="./",starting_troops_num=40,players_num=2,players=None,start_with=0):
         self.base_dir=base_dir
         self.starting_troops_num=starting_troops_num
         self.players_num=players_num
